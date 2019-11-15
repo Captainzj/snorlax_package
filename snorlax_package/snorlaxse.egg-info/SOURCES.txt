@@ -1,0 +1,7 @@
+setup.py
+snorlax/__init__.py
+snorlax/common.py
+snorlaxse.egg-info/PKG-INFO
+snorlaxse.egg-info/SOURCES.txt
+snorlaxse.egg-info/dependency_links.txt
+snorlaxse.egg-info/top_level.txt
